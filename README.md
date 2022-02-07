@@ -1,2 +1,3 @@
-# my-new-repo
-connecting vs code to Github
+# Voron 2.4 Klipper configuration
+
+
